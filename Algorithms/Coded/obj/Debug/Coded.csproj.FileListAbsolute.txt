@@ -1,0 +1,27 @@
+D:\Coded\Coded\bin\Debug\Coded.exe.config
+D:\Coded\Coded\bin\Debug\Coded.exe
+D:\Coded\Coded\bin\Debug\Coded.pdb
+D:\Coded\Coded\obj\Debug\Coded.csprojResolveAssemblyReference.cache
+D:\Coded\Coded\obj\Debug\Coded.Form1.resources
+D:\Coded\Coded\obj\Debug\Coded.Properties.Resources.resources
+D:\Coded\Coded\obj\Debug\Coded.csproj.GenerateResource.Cache
+D:\Coded\Coded\obj\Debug\Coded.exe
+D:\Coded\Coded\obj\Debug\Coded.pdb
+D:\Cs\Advanced Algorithm\Project\Coded\Coded\bin\Debug\Coded.exe.config
+D:\Cs\Advanced Algorithm\Project\Coded\Coded\obj\Debug\Coded.exe
+D:\Cs\Advanced Algorithm\Project\Coded\Coded\obj\Debug\Coded.pdb
+D:\Cs\Advanced Algorithm\Project\Coded\Coded\bin\Debug\Coded.exe
+D:\Cs\Advanced Algorithm\Project\Coded\Coded\bin\Debug\Coded.pdb
+D:\Cs\Advanced Algorithm\Project\Coded\Coded\obj\Debug\Coded.csprojResolveAssemblyReference.cache
+D:\Cs\Advanced Algorithm\Project\Coded\Coded\obj\Debug\Coded.Form1.resources
+D:\Cs\Advanced Algorithm\Project\Coded\Coded\obj\Debug\Coded.Properties.Resources.resources
+D:\Cs\Advanced Algorithm\Project\Coded\Coded\obj\Debug\Coded.csproj.GenerateResource.Cache
+D:\Cs\Advanced Algorithm\Project\Algorithms\Coded\bin\Debug\Coded.exe.config
+D:\Cs\Advanced Algorithm\Project\Algorithms\Coded\obj\Debug\Coded.exe
+D:\Cs\Advanced Algorithm\Project\Algorithms\Coded\obj\Debug\Coded.pdb
+D:\Cs\Advanced Algorithm\Project\Algorithms\Coded\bin\Debug\Coded.exe
+D:\Cs\Advanced Algorithm\Project\Algorithms\Coded\bin\Debug\Coded.pdb
+D:\Cs\Advanced Algorithm\Project\Algorithms\Coded\obj\Debug\Coded.csprojResolveAssemblyReference.cache
+D:\Cs\Advanced Algorithm\Project\Algorithms\Coded\obj\Debug\Coded.Form1.resources
+D:\Cs\Advanced Algorithm\Project\Algorithms\Coded\obj\Debug\Coded.Properties.Resources.resources
+D:\Cs\Advanced Algorithm\Project\Algorithms\Coded\obj\Debug\Coded.csproj.GenerateResource.Cache
